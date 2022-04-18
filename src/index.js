@@ -1,4 +1,3 @@
-import './sass/main.scss';
 import { Combination } from '../node_modules/js-combinatorics/combinatorics';
 
 const chooseOptimalDistance = (t, k, ls) => {
